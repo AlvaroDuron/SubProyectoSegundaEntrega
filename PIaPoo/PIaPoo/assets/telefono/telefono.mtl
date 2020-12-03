@@ -1,0 +1,19 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 29.11.2020 19:12:02
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Pay_Phone_Diffuse.jpg
+	map_Kd Pay_Phone_Diffuse.jpg
+	map_Ks Pay_Phone_Spec.jpg
+	map_bump Pay_Phone_Normal_Alt.jpg
+	bump Pay_Phone_Normal_Alt.jpg
